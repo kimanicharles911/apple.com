@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}/* 
+h1, h2{
+  font-weight: normal;
+}
+h1{
+  font-size: 3rem;
+}
+h2{
+  font-size: 1.5rem;;
+}
+img{
+  width: 100%;
+  height: auto;
+} */
+main{
+  background: url(images/your_verse_hero_2x.jpg) no-repeat;
+  background-position: 50% 100%;
+  background-size: cover;
+  padding: 65px 200px;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav ul{
+  font-size: 13px;
+  background-color: #555;
+  background-image: linear-gradient(#777 50%, #555 50%);
+  border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
